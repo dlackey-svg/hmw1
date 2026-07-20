@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio Site Wireframe</title>
+  <desc id="desc">A simple hand-style wireframe showing three pages: Home, Projects, and About/Contact.</desc>
+  <rect width="1200" height="800" fill="#f7f7f7"/>
+  <text x="40" y="48" font-family="Arial" font-size="24" font-weight="bold">Wireframe Notes</text>
+  <text x="40" y="80" font-family="Arial" font-size="16">Color palette: soft navy, warm sand, muted teal</text>
+  <text x="40" y="104" font-family="Arial" font-size="16">Fonts: heading = Georgia, body = Arial</text>
+
+  <rect x="40" y="140" width="340" height="560" fill="#ffffff" stroke="#444" stroke-width="2"/>
+  <rect x="60" y="160" width="300" height="40" fill="#e6eef7" stroke="#444" stroke-width="1"/>
+  <text x="82" y="188" font-family="Arial" font-size="18">Home page layout</text>
+  <rect x="60" y="220" width="300" height="70" fill="#f6efe4" stroke="#444" stroke-width="1"/>
+  <text x="82" y="252" font-family="Arial" font-size="16">Header / Nav</text>
+  <text x="82" y="278" font-family="Arial" font-size="14">Logo, menu links, CTA</text>
+  <rect x="60" y="310" width="300" height="110" fill="#dff1ee" stroke="#444" stroke-width="1"/>
+  <text x="82" y="350" font-family="Arial" font-size="16">Hero / Intro</text>
+  <text x="82" y="374" font-family="Arial" font-size="14">Main heading, short blurb</text>
+  <rect x="60" y="440" width="300" height="120" fill="#f5f5f5" stroke="#444" stroke-width="1"/>
+  <text x="82" y="480" font-family="Arial" font-size="16">Featured content</text>
+  <rect x="60" y="580" width="300" height="40" fill="#e6eef7" stroke="#444" stroke-width="1"/>
+  <text x="82" y="608" font-family="Arial" font-size="16">Footer</text>
+
+  <rect x="430" y="140" width="340" height="560" fill="#ffffff" stroke="#444" stroke-width="2"/>
+  <rect x="450" y="160" width="300" height="40" fill="#e6eef7" stroke="#444" stroke-width="1"/>
+  <text x="472" y="188" font-family="Arial" font-size="18">Projects / Work page</text>
+  <rect x="450" y="220" width="300" height="70" fill="#f6efe4" stroke="#444" stroke-width="1"/>
+  <text x="472" y="252" font-family="Arial" font-size="16">Project cards</text>
+  <rect x="450" y="310" width="300" height="80" fill="#dff1ee" stroke="#444" stroke-width="1"/>
+  <text x="472" y="350" font-family="Arial" font-size="16">Skills / Process</text>
+  <rect x="450" y="410" width="300" height="120" fill="#f5f5f5" stroke="#444" stroke-width="1"/>
+  <text x="472" y="450" font-family="Arial" font-size="16">Case study preview</text>
+  <rect x="450" y="580" width="300" height="40" fill="#e6eef7" stroke="#444" stroke-width="1"/>
+  <text x="472" y="608" font-family="Arial" font-size="16">Footer</text>
+
+  <rect x="820" y="140" width="340" height="560" fill="#ffffff" stroke="#444" stroke-width="2"/>
+  <rect x="840" y="160" width="300" height="40" fill="#e6eef7" stroke="#444" stroke-width="1"/>
+  <text x="862" y="188" font-family="Arial" font-size="18">About / Contact page</text>
+  <rect x="840" y="220" width="300" height="90" fill="#f6efe4" stroke="#444" stroke-width="1"/>
+  <text x="862" y="252" font-family="Arial" font-size="16">About summary</text>
+  <rect x="840" y="330" width="300" height="120" fill="#dff1ee" stroke="#444" stroke-width="1"/>
+  <text x="862" y="372" font-family="Arial" font-size="16">Contact details</text>
+  <rect x="840" y="470" width="300" height="90" fill="#f5f5f5" stroke="#444" stroke-width="1"/>
+  <text x="862" y="512" font-family="Arial" font-size="16">Message form</text>
+  <rect x="840" y="580" width="300" height="40" fill="#e6eef7" stroke="#444" stroke-width="1"/>
+  <text x="862" y="608" font-family="Arial" font-size="16">Footer</text>
+</svg>
